@@ -10,6 +10,7 @@
 		374AE86C24B1002C00F55C32 /* ForecastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374AE86B24B1002C00F55C32 /* ForecastViewController.swift */; };
 		374AE86E24B10DC500F55C32 /* ForecastTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374AE86D24B10DC500F55C32 /* ForecastTableViewCell.swift */; };
 		375EED2424C659F600C6FCF9 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375EED2324C659F600C6FCF9 /* DetailsViewController.swift */; };
+		3788D94924EAE7DE00628FE8 /* WeatherManagerTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3788D94824EAE7DE00628FE8 /* WeatherManagerTemplate.swift */; };
 		378D778024D4DC500061A7A5 /* TemperatureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378D777F24D4DC500061A7A5 /* TemperatureViewController.swift */; };
 		378D778324D508300061A7A5 /* Rye-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 378D778224D508300061A7A5 /* Rye-Regular.ttf */; };
 		378D778524D5DFCE0061A7A5 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 378D778424D5DFCE0061A7A5 /* OpenSans-Bold.ttf */; };
@@ -31,6 +32,7 @@
 		374AE86B24B1002C00F55C32 /* ForecastViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastViewController.swift; sourceTree = "<group>"; };
 		374AE86D24B10DC500F55C32 /* ForecastTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastTableViewCell.swift; sourceTree = "<group>"; };
 		375EED2324C659F600C6FCF9 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		3788D94824EAE7DE00628FE8 /* WeatherManagerTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManagerTemplate.swift; sourceTree = SOURCE_ROOT; };
 		378D777F24D4DC500061A7A5 /* TemperatureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureViewController.swift; sourceTree = "<group>"; };
 		378D778224D508300061A7A5 /* Rye-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rye-Regular.ttf"; sourceTree = "<group>"; };
 		378D778424D5DFCE0061A7A5 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				37E85E35245E64B100A8E46C /* WeatherManager.swift */,
 				37E85E37245F3A0100A8E46C /* WeatherData.swift */,
 				37E85E39245F472B00A8E46C /* WeatherModel.swift */,
+				3788D94824EAE7DE00628FE8 /* WeatherManagerTemplate.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				ADAA27B1231BBFAF00365194 /* AppDelegate.swift in Sources */,
 				37E85E36245E64B100A8E46C /* WeatherManager.swift in Sources */,
 				37E85E3A245F472B00A8E46C /* WeatherModel.swift in Sources */,
+				3788D94924EAE7DE00628FE8 /* WeatherManagerTemplate.swift in Sources */,
 				ADAA27B3231BBFAF00365194 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
